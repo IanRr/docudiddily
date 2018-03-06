@@ -1,0 +1,17 @@
+{
+  "name": "docudiddly",
+  "version": "1.0.0",
+  "description": "generate Markdown from your literate programming-minded source files you can browse in Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "documentation",
+    "javascript",
+    "markdown",
+    "literate"
+  ],
+  "author": "IanRr",
+  "license": "ISC"
+}
